@@ -52,3 +52,11 @@ p{
     line-height: 60px;
     margin: 25px O;
 }
+.btn{
+    display: inline-block;
+    background: #6d5f5d;
+    color: bisque;
+    padding: 8px 30px;
+    margin: 30px 0;
+    border-radius: 30px;
+}
