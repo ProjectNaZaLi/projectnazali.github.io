@@ -158,7 +158,6 @@ small{
   box-shadow: 0 0 20px 0px rgba(0,0,0,0,0.1);
   cursor: pointer;
   transition: transform 0.5s;
-  
 }
 .testimonial .col-3{
   width: 50px;
