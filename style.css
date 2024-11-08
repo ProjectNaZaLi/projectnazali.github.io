@@ -183,4 +183,6 @@ small {
 }
 /*--------- brands -----------------*/
 
-.logo .;
+.logo .logo-image {
+  width: 200px;
+}
