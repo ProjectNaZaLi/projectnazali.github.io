@@ -190,5 +190,14 @@ small {
 }
 /* Icons */
 .fa-whatsapp {
-  font-size: 150px;
+  font-size: 100px;
+}
+.fa-instagram {
+  font-size: 100px;
+}
+.fa-map {
+  font-size: 100px;
+}
+.fa-shop {
+  font-size: 100px;
 }
