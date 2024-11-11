@@ -188,15 +188,7 @@ small {
 .col-5 {
   width: 160px;
 }
-.col-5 img {
-  width: 100%;
-  cursor: pointer;
-  filter: grayscale(100%);
-}
-.col-5 img:hover {
-  filter: grayscale(0);
-}
 /* Icons */
-.fa-whatsapp {
+.fa-whatsapp .fa-instagram .fa-map .fa-shop {
   font-size: 50px;
 }
