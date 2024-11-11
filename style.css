@@ -93,16 +93,6 @@ p {
   padding-left: 25px;
   padding-right: 25px;
 }
-.row {
-  display: flex;
-  margin: 0 -15px;
-}
-
-.col-4, .col-5 {
-  flex: 1;
-  padding: 15px;
-  box-sizing: border-box;
-}
 .col-4 {
   flex-basis: 25%;
   padding: 10px;
