@@ -200,6 +200,14 @@ small {
 .col-5 {
   width: 160px;
 }
+.col-5 i {
+  width: 100%;
+  cursor: pointer;
+  filter: brightness(100%);
+}
+.col-5 i:hover {
+  filter: brightness(0);
+}
 /* Icons */
 .fa-whatsapp {
   font-size: 75px;
