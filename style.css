@@ -80,11 +80,11 @@ p {
   margin: 70px;
 }
 .categories h2 {
-  margin-bottom: 20px;
+  margin-bottom: 30px;
 }
 
 .categories h3 {
-  margin-top: 10px;
+  margin-top: 20px;
 }
 .col-3 {
   flex-basis: 30%;
