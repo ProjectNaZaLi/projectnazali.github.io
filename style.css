@@ -82,9 +82,9 @@ p {
 .categories h2 {
   margin-bottom: 30px;
 }
-
 .categories h3 {
   margin-top: 20px;
+  margin-bottom: 30px;
 }
 .col-3 {
   flex-basis: 30%;
