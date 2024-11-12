@@ -80,11 +80,11 @@ p {
   margin: 70px;
 }
 .categories h2 {
-  margin-bottom: 20px; /* Ubah angka ini sesuai kebutuhan */
+  margin-bottom: 20px;
 }
 
 .categories h3 {
-  margin-top: 10px; /* Ubah angka ini sesuai kebutuhan */
+  margin-top: 10px;
 }
 .col-3 {
   flex-basis: 30%;
