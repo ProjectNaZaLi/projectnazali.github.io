@@ -11,7 +11,7 @@ body {
 .navbar {
   display: flex;
   align-items: center;
-  padding: 20px;
+  padding-top: 20px;
 }
 nav {
   flex: 1;
@@ -72,9 +72,6 @@ p {
 }
 .header {
   background: radial-gradient(#fff, #9b9a9c);
-}
-.header .row {
-  margin-top: 50px;
 }
 .categories {
   margin: 70px;
