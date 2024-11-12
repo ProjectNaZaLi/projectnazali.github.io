@@ -79,7 +79,7 @@ p {
 .categories {
   margin: 70px;
 }
-.categories .h2 {
+.categories{
   font-family: "Faculty Glyphic", sans-serif;
   font-weight: 400;
   font-style: normal;
