@@ -143,7 +143,6 @@ h4 {
 }
 
 /* offer */
-
 .offer {
   background: radial-gradient(#fff, #9b9a9c);
   margin-top: 80px;
@@ -155,8 +154,8 @@ h4 {
 small {
   color: #555;
 }
-/* testimonial */
 
+/* testimonial */
 .testimonial {
   padding-top: 100px;
   text-align: center;
