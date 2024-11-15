@@ -267,12 +267,12 @@ ul{
   height: 1px;
   margin: 20px 0;
 }
-.Copyright{
-  text-align: center;
-}
 .menu-icon{
   width: 28px;
   margin-left: 20px;
+}
+.Copyright{
+  text-align: center;
 }
 
 /* media query from menu */
