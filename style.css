@@ -6,6 +6,12 @@
   font-family: 'spartan', sans-serif;
 }
 
+.logo {
+  width: 150px;
+  height: auto;
+  max-width: 100%;
+}
+
 h1 {
   font-size: 50px;
   line-height: 64px;
@@ -44,4 +50,26 @@ p {
 
 body {
   width: 100%;
+}
+
+/* header start */
+
+#header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px 80px;
+  background: whitesmoke;
+  box-shadow: 0 5px 15px rgb(119, 231, 188);
+}
+
+#navbar {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#navbar li{
+  list-style: none;
+  padding: 0 20px;
 }
