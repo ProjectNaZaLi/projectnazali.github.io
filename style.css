@@ -1,0 +1,55 @@
+:root {
+    --header-height: 160px;
+    --header-height-min: 80px;
+    --accent-color: rgb(0, 0, 0);
+    --dark-color: #040404;
+    --light-color: #fff;
+    --primary-color: #111111;
+    --body-font: "Outfit", sans-serif;
+    --heading-font: "Urbanist", sans-serif;
+  }
+  
+  body {
+    font-family: var;
+    font-size: 19px;
+    color: var;
+    margin: 0;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    font-family: var;
+    color: var;
+  }
+  
+  h1 {
+    font-size: 3.5em;
+  }
+  
+  h2 {
+    font-size: 2.0em;
+  }
+  
+  h3 {
+    font-size: 1.6em;
+  }
+  
+  p {
+    font-family: var;
+    font-size: 19px;
+    line-height: 1.5;
+    margin: 0 0 20px 0;
+  }
+  
+  a {
+    color: var;
+    text-decoration: none;
+    transition: 0.3s color ease-out;
+  }
+  
+  a:hover {
+    color: var;
+  }
+  
+  .container {
+    max-width: 1400px;
+  }
