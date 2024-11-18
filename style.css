@@ -10,15 +10,15 @@
   }
   
   body {
-    font-family: var;
+    font-family: var(--dark-color);
     font-size: 19px;
-    color: var;
+    color: var(--dark-color);
     margin: 0;
   }
   
   h1, h2, h3, h4, h5, h6 {
-    font-family: var;
-    color: var;
+    font-family: var(--dark-color);
+    color: black;
   }
   
   h1 {
@@ -31,6 +31,7 @@
   
   h3 {
     font-size: 1.6em;
+    color: #040404;
   }
   
   p {
