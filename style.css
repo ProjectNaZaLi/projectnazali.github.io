@@ -8,6 +8,11 @@
     --body-font: "Outfit", sans-serif;
     --heading-font: "Urbanist", sans-serif;
   }
+
+  .brand-image {
+    max-width: 100%;
+    height: auto;
+}
   
   body {
     font-family: var(--dark-color);
