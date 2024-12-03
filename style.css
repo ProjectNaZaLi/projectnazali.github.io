@@ -15,15 +15,27 @@
 }
 
 #billboard {
-  background-size: cover;
-  background-position: center;
+  position: relative; /* Menambahkan posisi relatif untuk kontrol lebih baik */
+  overflow: hidden;
+  padding: 10px 0; /* Menyembunyikan bagian gambar yang melampaui batas */
 }
 
+#billboard img {
+  background-color: red;
+  width: 100%; /* Mengatur lebar gambar menjadi 100% dari elemen induk */
+  height: auto; /* Memastikan tinggi gambar otomatis berdasarkan lebar */
+  display: block;
+  margin: 0; /* Menghilangkan jarak di bawah gambar */
+}
 @media (max-width: 768px) {
+  #billboard img {
+      width: 100%; /* Gambar akan menyesuaikan lebar 100% pada perangkat kecil */
+      height: auto; /* Memastikan tinggi gambar otomatis */
+    
+  }
+
   #billboard {
-      background-image: url(images/Beige Aesthetic Personal Brand Website Blog Banner.png);
-      background-size: contain; 
-      background-repeat: no-repeat; 
+      padding: 10px 0;
   }
 }
   
