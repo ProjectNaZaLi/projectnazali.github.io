@@ -21,7 +21,6 @@
 }
 
 #billboard img {
-  background-color: red;
   width: 100%; /* Mengatur lebar gambar menjadi 100% dari elemen induk */
   height: auto; /* Memastikan tinggi gambar otomatis berdasarkan lebar */
   display: block;
