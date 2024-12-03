@@ -13,6 +13,19 @@
     max-width: 100%;
     height: auto;
 }
+
+#billboard {
+  background-size: cover;
+  background-position: center;
+}
+
+@media (max-width: 768px) {
+  #billboard {
+      background-image: url(images/Beige Aesthetic Personal Brand Website Blog Banner.png);
+      background-size: contain; 
+      background-repeat: no-repeat; 
+  }
+}
   
   body {
     font-family: var(--dark-color);
