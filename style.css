@@ -18,6 +18,7 @@
   position: relative; /* Menambahkan posisi relatif untuk kontrol lebih baik */
   overflow: hidden;
   padding: 10px 0; /* Menyembunyikan bagian gambar yang melampaui batas */
+  margin-top: 4rem;
 }
 
 #billboard img {
@@ -103,11 +104,6 @@
   .btn-light {
     background-color: var;
     color: var;
-  }
-  
-  #billboard {
-    height: 100vh;
-    background-size: cover;
   }
   
   .text-center {
